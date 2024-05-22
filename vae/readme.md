@@ -8,6 +8,7 @@
 ### Models Examples
 - [LSTM-VAE](https://github.com/CUN-bjy/lstm-vae-torch/blob/main/src/models.py)
 - [VAE para imagem](https://medium.com/@rekalantar/variational-auto-encoder-vae-pytorch-tutorial-dce2d2fe0f5f)
+- [time VAE](https://github.com/abudesai/timeVAE/blob/main/src/vae/timevae.py)
 
 ### Datasets
 - [Humman Activity Recognition with Smartphones](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
